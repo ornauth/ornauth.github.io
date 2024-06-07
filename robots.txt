@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ornauth.github.io/sitemap.html
+Sitemap: https://ornauth.github.io/app/sitemap.html
+Sitemap: https://ornauth.github.io/assets/sitemap.html
+Sitemap: https://ornauth.github.io/includes/sitemap.html
+Sitemap: https://ornauth.github.io/src/sitemap.html
